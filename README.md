@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hunter</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px">, I'm Hunter</h1>
+ 
 <h3 align="center">A Hillsboro based <b>Software Engineer</b></h3>
 
 [<img src="https://spotify-now-playing.hunterdanielson.vercel.app/api/spotify-playing" alt="Spotify now playing">](https://open.spotify.com/user/hunterdanielson)
