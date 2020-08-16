@@ -11,7 +11,7 @@
 
 <p><img align="left" src="https://github-readme-stats.hunterdanielson.vercel.app/api/top-langs/?username=hunterdanielson&layout=compact&theme=dark" alt="hunterdanielson" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.hunterdanielson.vercel.app/api?username=hunterdanielson&show_icons=true&theme=dark" alt="hunterdanielson" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.hunterdanielson.vercel.app/api?username=hunterdanielson&show_icons=true&theme=dark&hide=stars,issues" alt="hunterdanielson" /></p>
 
 <p align="center">
 <a href="https://linkedin.com/in/hunter-danielson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hunter-danielson" height="30" width="30" /></a>
