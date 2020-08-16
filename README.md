@@ -13,10 +13,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.hunterdanielson.vercel.app/api?username=hunterdanielson&show_icons=true&theme=dark&hide=stars,issues" alt="hunterdanielson" /></p>
 
-<p align="center">
-<a href="https://linkedin.com/in/hunter-danielson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hunter-danielson" height="30" width="30" /></a>
-</p>
-
+<details>
+  <summary>⚡ Recent Github Activity</summary>
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#2](https://github.com//hunterdanielson/recipe-be/pull/2) in [hunterdanielson/recipe-be](https://github.com//hunterdanielson/recipe-be)
 2. 💪 Opened PR [#2](https://github.com//hunterdanielson/recipe-fe/pull/2) in [hunterdanielson/recipe-fe](https://github.com//hunterdanielson/recipe-fe)
@@ -24,3 +22,9 @@
 4. 💪 Opened PR [#1](https://github.com//hunterdanielson/recipe-fe/pull/1) in [hunterdanielson/recipe-fe](https://github.com//hunterdanielson/recipe-fe)
 5. 💪 Opened PR [#7](https://github.com//Morriden/markdownly/pull/7) in [Morriden/markdownly](https://github.com//Morriden/markdownly)
 <!--END_SECTION:activity-->
+</details>
+<br>
+
+<p align="center">
+<a href="https://linkedin.com/in/hunter-danielson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hunter-danielson" height="30" width="30" /></a>
+</p>
