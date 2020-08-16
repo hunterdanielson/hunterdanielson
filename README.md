@@ -20,6 +20,7 @@
 
 <details>
   <summary>⚡ Recent Github Activity</summary>
+  
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#2](https://github.com//hunterdanielson/recipe-be/pull/2) in [hunterdanielson/recipe-be](https://github.com//hunterdanielson/recipe-be)
 2. 💪 Opened PR [#2](https://github.com//hunterdanielson/recipe-fe/pull/2) in [hunterdanielson/recipe-fe](https://github.com//hunterdanielson/recipe-fe)
