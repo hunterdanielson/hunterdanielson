@@ -15,8 +15,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.hunterdanielson.vercel.app
 /api?username=hunterdanielson&hide=stars,issues&show_icons=true&theme=dark" alt="hunterdanielson" /></p>
 
-<!--START_SECTION:activity-->
-
 <p align="center">
 <a href="https://linkedin.com/in/hunter-danielson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hunter-danielson" height="30" width="30" /></a>
 </p>
+
+<!--START_SECTION:activity-->
