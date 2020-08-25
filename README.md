@@ -24,11 +24,11 @@
   <summary>⚡ Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com//hunterdanielson/recipe-be/pull/2) in [hunterdanielson/recipe-be](https://github.com//hunterdanielson/recipe-be)
-2. 💪 Opened PR [#2](https://github.com//hunterdanielson/recipe-fe/pull/2) in [hunterdanielson/recipe-fe](https://github.com//hunterdanielson/recipe-fe)
-3. 💪 Opened PR [#1](https://github.com//hunterdanielson/recipe-be/pull/1) in [hunterdanielson/recipe-be](https://github.com//hunterdanielson/recipe-be)
-4. 💪 Opened PR [#1](https://github.com//hunterdanielson/recipe-fe/pull/1) in [hunterdanielson/recipe-fe](https://github.com//hunterdanielson/recipe-fe)
-5. 💪 Opened PR [#7](https://github.com//Morriden/markdownly/pull/7) in [Morriden/markdownly](https://github.com//Morriden/markdownly)
+1. 🎉 Merged PR [#3](https://github.com//songs-against-humanity/sah-be/pull/3) in [songs-against-humanity/sah-be](https://github.com//songs-against-humanity/sah-be)
+2. 🎉 Merged PR [#1](https://github.com//songs-against-humanity/sah-fe/pull/1) in [songs-against-humanity/sah-fe](https://github.com//songs-against-humanity/sah-fe)
+3. 🎉 Merged PR [#3](https://github.com//songs-against-humanity/sah-fe/pull/3) in [songs-against-humanity/sah-fe](https://github.com//songs-against-humanity/sah-fe)
+4. 💪 Opened PR [#3](https://github.com//songs-against-humanity/sah-fe/pull/3) in [songs-against-humanity/sah-fe](https://github.com//songs-against-humanity/sah-fe)
+5. 💪 Opened PR [#3](https://github.com//songs-against-humanity/sah-be/pull/3) in [songs-against-humanity/sah-be](https://github.com//songs-against-humanity/sah-be)
 <!--END_SECTION:activity-->
 
 </details>
