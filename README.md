@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hunterdanielson" alt="hunterdanielson" /></p>
 
-- 🌱 I’m currently learning **React Redux**
-
 - 👨‍💻 Check out some of my projects at [https://hdanielson.com/](https://hdanielson.com/)
 
 ## Languages and Tools
