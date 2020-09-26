@@ -22,11 +22,11 @@
   <summary>⚡ Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com//songs-about-humanity/sah-fe/pull/15) in [songs-about-humanity/sah-fe](https://github.com//songs-about-humanity/sah-fe)
-2. 💪 Opened PR [#15](https://github.com//songs-about-humanity/sah-fe/pull/15) in [songs-about-humanity/sah-fe](https://github.com//songs-about-humanity/sah-fe)
-3. 🎉 Merged PR [#10](https://github.com//songs-about-humanity/sah-be/pull/10) in [songs-about-humanity/sah-be](https://github.com//songs-about-humanity/sah-be)
-4. 💪 Opened PR [#10](https://github.com//songs-about-humanity/sah-be/pull/10) in [songs-about-humanity/sah-be](https://github.com//songs-about-humanity/sah-be)
-5. 🎉 Merged PR [#14](https://github.com//songs-against-humanity/sah-fe/pull/14) in [songs-against-humanity/sah-fe](https://github.com//songs-against-humanity/sah-fe)
+1. 🎉 Merged PR [#15](https://github.com/songs-about-humanity/sah-fe/pull/15) in [songs-about-humanity/sah-fe](https://github.com/songs-about-humanity/sah-fe)
+2. 💪 Opened PR [#15](https://github.com/songs-about-humanity/sah-fe/pull/15) in [songs-about-humanity/sah-fe](https://github.com/songs-about-humanity/sah-fe)
+3. 🎉 Merged PR [#10](https://github.com/songs-about-humanity/sah-be/pull/10) in [songs-about-humanity/sah-be](https://github.com/songs-about-humanity/sah-be)
+4. 💪 Opened PR [#10](https://github.com/songs-about-humanity/sah-be/pull/10) in [songs-about-humanity/sah-be](https://github.com/songs-about-humanity/sah-be)
+5. 🎉 Merged PR [#14](https://github.com/songs-against-humanity/sah-fe/pull/14) in [songs-against-humanity/sah-fe](https://github.com/songs-against-humanity/sah-fe)
 <!--END_SECTION:activity-->
 
 </details>
