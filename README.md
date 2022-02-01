@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hunterdanielson" alt="hunterdanielson" /></p>
 
-- 👨‍💻 Check out some of my projects at [https://hdanielson.com/](https://hdanielson.com/)
-
 
 <p><img align="left" src="https://github-readme-stats.hunterdanielson.vercel.app/api/top-langs/?username=hunterdanielson&layout=compact&theme=dark" alt="hunterdanielson" /></p>
 
