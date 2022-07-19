@@ -11,8 +11,6 @@
 
 <p><img align="left" src="https://github-readme-stats.hunterdanielson.vercel.app/api/top-langs/?username=hunterdanielson&layout=compact&theme=dark" alt="hunterdanielson" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.hunterdanielson.vercel.app/api?username=hunterdanielson&show_icons=true&theme=dark&hide=stars,issues" alt="hunterdanielson" /></p>
-
 <br>
 
 <p align="center">
